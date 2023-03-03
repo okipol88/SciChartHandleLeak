@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SciChartHandleLeak", "SciChartHandleLeak\SciChartHandleLeak.csproj", "{E23BA2C3-1F7B-4189-8210-D2D7F39C9E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23BA2C3-1F7B-4189-8210-D2D7F39C9E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23BA2C3-1F7B-4189-8210-D2D7F39C9E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23BA2C3-1F7B-4189-8210-D2D7F39C9E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23BA2C3-1F7B-4189-8210-D2D7F39C9E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FD32C3C-43F5-4979-90D9-682D8C9A50E0}
+	EndGlobalSection
+EndGlobal
